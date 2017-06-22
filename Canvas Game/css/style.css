@@ -1,0 +1,14 @@
+body {
+    background:url(../images/bg.png);
+}
+
+canvas {
+   background:url(../images/bg_game.png);
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
